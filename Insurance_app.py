@@ -49,7 +49,7 @@ try:
         st.markdown("<h2 style='text-align: center;'>Health Insurance Cost Prediction Using ML</h2>", unsafe_allow_html=True)
 
         # Load the ML model
-        model = joblib.load(/config/workspace/Eda and Model building/gradient_boosting_model_test)
+        model = joblib.load("/config/workspace/Eda and Model building/gradient_boosting_model_test")
 
         # Input fields for user input
         p1 = st.number_input("Enter Your Age", min_value=18, max_value=100, value=25)
