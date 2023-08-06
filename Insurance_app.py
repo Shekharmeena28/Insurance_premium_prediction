@@ -49,7 +49,6 @@ try:
         st.markdown("<h2 style='text-align: center;'>Health Insurance Cost Prediction Using ML</h2>", unsafe_allow_html=True)
 
         # Load the ML model
-        model = joblib.load("/config/workspace/Eda_and_Model_building/gradient_boosting_model_test")
         model = joblib.load("Eda and Model building/GB_MODEL.joblib")
 
         # Input fields for user input
