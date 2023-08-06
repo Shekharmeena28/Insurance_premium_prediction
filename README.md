@@ -34,5 +34,26 @@ Each of these steps was meticulously executed to create a comprehensive solution
 ![GitHub Logo](https://github.com/Shekharmeena28/Insurance_premium_prediction/blob/main/Image/Screenshot%202023-06-23%20182904.png)
 
 ### Link for the web app
+ [https://insurancepremiumprediction-j2kcdoauplgk9jb4cmmhq6.streamlit.app/](https://insurancepremiumprediction-j2kcdoauplgk9jb4cmmhq6.streamlit.app/)
 
+### Libraries used:
+    1) Pandas
+    2) Numpy
+    3) Matplotlib, Seaborn, Plotly
+    4) Scikit-Learn
+    5) Streamlit
+    6) HTML
+    7) CSS
 
+### Documentation
+**HIGH LEVEL DESIGN:**[https://drive.google.com/file/d/1TBK2NDSta448c6edSQI_cbm6KJvQRDoK/view?usp=sharing](https://drive.google.com/file/d/1TBK2NDSta448c6edSQI_cbm6KJvQRDoK/view?usp=sharing)
+
+**LOW LEVEL DESIGN:**[https://drive.google.com/file/d/171cKsCfOnRoOSsuEt8K-fawcd2JH_ZYz/view?usp=sharing](https://drive.google.com/file/d/171cKsCfOnRoOSsuEt8K-fawcd2JH_ZYz/view?usp=sharing)
+
+**ARCHITECTURE:**[https://drive.google.com/file/d/1TxImIC3XYaWi_LxG0V8b3AeBM7I3NEJj/view?usp=sharing](https://drive.google.com/file/d/1TxImIC3XYaWi_LxG0V8b3AeBM7I3NEJj/view?usp=sharing)
+
+**WIREFRAME DOCUMENT:**[https://drive.google.com/file/d/1Fe54-aJzmF-G5GSdX-Kt85e_6PxhS0iU/view?usp=sharing](https://drive.google.com/file/d/1Fe54-aJzmF-G5GSdX-Kt85e_6PxhS0iU/view?usp=sharing)
+
+**DETAIL PROJECT REPORT:**[https://drive.google.com/file/d/17nr8DvZDzT4w1uyXcn-oTS1aoRZowKYd/view?usp=sharing](https://drive.google.com/file/d/17nr8DvZDzT4w1uyXcn-oTS1aoRZowKYd/view?usp=sharing)
+
+###
