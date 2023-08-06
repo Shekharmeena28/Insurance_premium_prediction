@@ -29,3 +29,10 @@ Here's how each step was carried out:
 **Webpage & Deployment:** Designed a web application that collects user inputs and presents outputs. The project was subsequently deployed on the streamlit  Platform.
 
 Each of these steps was meticulously executed to create a comprehensive solution for predicting health insurance premiums, involving everything from initial data exploration to the final deployment of the predictive model on a web interface.
+
+### Web app interface 
+![GitHub Logo](https://github.com/Shekharmeena28/Insurance_premium_prediction/blob/main/Image/Screenshot%202023-06-23%20182904.png)
+
+### Link for the web app
+
+
